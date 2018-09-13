@@ -1,5 +1,8 @@
 _repo: Two-diaries-From-Middle-St-John-s-Berkeley-South-Carolina-February-May-1865-Journals-kept-by-__51215
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51215-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Ravenel, Charlotte St. J. (Charlotte St. Julien)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '46306'
     url: http://www.gutenberg.org/2009/agents/46306
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51215#Two-diaries-From-Middle-St-John-s-Berkeley-South-Carolina-February-May-1865-Journals-kept-by-_
 gutenberg_issued: '2016-02-14'
 gutenberg_type: Text
 identifiers:
