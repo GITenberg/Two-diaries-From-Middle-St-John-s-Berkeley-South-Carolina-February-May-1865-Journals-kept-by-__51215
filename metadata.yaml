@@ -1,0 +1,36 @@
+_repo: Two-diaries-From-Middle-St-John-s-Berkeley-South-Carolina-February-May-1865-Journals-kept-by-__51215
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Ravenel, Charlotte St. J. (Charlotte St. Julien)
+    deathdate: 1880
+    gutenberg_agent_id: '46305'
+    url: http://www.gutenberg.org/2009/agents/46305
+  - agent_name: Jervey, Susan R. (Susan Ravenel)
+    birthdate: 1840
+    gutenberg_agent_id: '46304'
+    url: http://www.gutenberg.org/2009/agents/46304
+  - agent_name: Henagan, Mary Rhodes Waring
+    alias: Waring, Mary Rhodes
+    gutenberg_agent_id: '46306'
+    url: http://www.gutenberg.org/2009/agents/46306
+description: ''
+gutenberg_issued: '2016-02-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51215'
+  lccn: '22000265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives,
+  Confederate'
+- !lcc 'E456'
+- GITenberg
+title: "Two diaries From Middle St. John's, Berkeley, South Carolina, February-May,\
+  \ 1865\r\nJournals kept by Miss Susan R. Jervey and Miss Charlotte St. J. Ravenel,\
+  \ at Northampton and Pooshee plantations, and reminiscences of Mrs. (Waring) Henagan;\
+  \ with two contemporary reports from federal officials."
+url: http://www.gutenberg.org/ebooks/51215
